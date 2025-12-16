@@ -198,6 +198,142 @@ const harshad: Developer = {
 </tr>
 </table>
 
+### 🎧 **Vibe Coding Arsenal** 🎵
+
+<p align="center">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+<img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music"/>
+<img src="https://img.shields.io/badge/Lo--fi_Hip_Hop-FF6B6B?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Lo-fi"/>
+<img src="https://img.shields.io/badge/Synthwave-9D4EDD?style=for-the-badge&logo=mixcloud&logoColor=white" alt="Synthwave"/>
+<img src="https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Coffee"/>
+</p>
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/spotify.png" width="60"/>
+<br/>
+<strong>Spotify Playlists</strong>
+<br/>
+<sub>Deep Focus 🎧</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/rgb-circle-1.png" width="60"/>
+<br/>
+<strong>RGB Setup</strong>
+<br/>
+<sub>Neon Vibes ✨</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/cafe.png" width="60"/>
+<br/>
+<strong>Coffee Time</strong>
+<br/>
+<sub>Fuel for Code ☕</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/moon-and-stars.png" width="60"/>
+<br/>
+<strong>Night Owl</strong>
+<br/>
+<sub>3AM Coding 🌙</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/dj.png" width="60"/>
+<br/>
+<strong>Lo-fi Beats</strong>
+<br/>
+<sub>Chill Mode 🎵</sub>
+</td>
+</tr>
+</table>
+
+### 🎮 **Developer Setup & Environment**
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><strong>VS Code</strong>
+<br><sub>Primary IDE</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime" />
+<br><strong>Sublime</strong>
+<br><sub>Quick Edits</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br><strong>Postman</strong>
+<br><sub>API Testing</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="Stack Overflow" />
+<br><strong>Stack OF</strong>
+<br><sub>Debug Helper</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
+<br><strong>Discord</strong>
+<br><sub>Dev Community</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+<br><strong>Notion</strong>
+<br><sub>Documentation</sub>
+</td>
+</tr>
+</table>
+
+### 🎨 **Design & Creative Tools**
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br><strong>Figma</strong>
+<br><sub>UI/UX Design</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="Adobe XD" />
+<br><strong>Adobe XD</strong>
+<br><sub>Prototyping</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
+<br><strong>Photoshop</strong>
+<br><sub>Graphics</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=illustrator" width="48" height="48" alt="Illustrator" />
+<br><strong>Illustrator</strong>
+<br><sub>Vector Art</sub>
+</td>
+<td align="center" width="96">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="48" height="48" alt="Canva" />
+<br><strong>Canva</strong>
+<br><sub>Quick Design</sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/fluency/96/color-palette.png" width="48" height="48" alt="Colors" />
+<br><strong>Coolors</strong>
+<br><sub>Palette Gen</sub>
+</td>
+</tr>
+</table>
+
+### ⚡ **Productivity Boosters**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+<img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" alt="Todoist"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Claude-667eea?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini"/>
+</p>
+
 ### 🎯 **Currently Exploring**
 
 <p>
