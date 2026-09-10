@@ -1,232 +1,301 @@
-::: {align="center"}
-# 👋 Hi, I'm **HARSHAD JETHVA**
+<!-- ========================================================= -->
+<!--                    HJ INFOTECH README                     -->
+<!-- ========================================================= -->
 
-### 💻 Software Developer · Web Developer · Vibe Coder
+<div align="center">
 
-```{=html}
-<p>
-```
-`<a href="https://portfolio-hj.vercel.app/">`{=html}
-`<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge" alt="Portfolio">`{=html}
-`</a>`{=html} `<a href="https://github.com/">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-HJ_INFOTECH-181717?style=for-the-badge&logo=github" alt="GitHub">`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+beautiful+web+experiences;Turning+complex+problems+into+elegant+solutions;Learning+%7C+Building+%7C+Improving;Welcome+to+my+GitHub+profile+%F0%9F%9A%80" alt="Typing animation">`{=html}
-:::
+<a href="https://portfolio-hj.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=HARSHAD%20JETHVA&fontSize=58&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20Web%20Developer%20%7C%20Vibe%20Coder&descAlignY=62&descSize=18" width="100%"/>
+</a>
 
-------------------------------------------------------------------------
+<br/>
 
-## 🚀 About Me
+<a href="https://portfolio-hj.vercel.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20PORTFOLIO-portfolio--hj.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GITHUB-HJ%20INFOTECH-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=22C55E&center=true&vCenter=true&width=800&lines=Building+clean+%26+modern+web+experiences;Turning+ideas+into+working+products;Code+%E2%86%92+Create+%E2%86%92+Learn+%E2%86%92+Repeat;Welcome+to+HJ+INFOTECH+%F0%9F%91%8B" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧑‍💻 ABOUT ME
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👋 Hi, I'm **Harshad Jethva**
 
 > **"Turning complex problems into elegant solutions."**
 
-I'm **HARSHAD JETHVA**, a web-focused developer and self-described
-**Vibe Coder** who enjoys building dynamic, user-centric digital
-experiences.
+I am a **Software Developer, Web Developer and Vibe Coder** who enjoys creating dynamic, user-focused digital experiences.
 
-My journey started with a simple **"Hello, World!"** and has grown into
-a passion for creating useful, attractive, and functional web
-applications. I focus on clean, efficient, scalable code while keeping
-design and user experience in mind.
+My journey started with a simple **"Hello, World!"** and grew into a passion for building useful, attractive and functional web applications. I like writing clean and efficient code while keeping **performance, usability and design** in mind.
 
--   🧑‍💻 **Experience:** 2.5+ Years
--   🇮🇳 **Nationality:** India
--   📍 **Location:** Amroli, Surat
--   🌐 **Languages:** English · Gujarati · Hindi
--   💼 **Current Experience:** Store Manager at **Gopani Books** (2023
-    -- Present)
+</td>
 
-------------------------------------------------------------------------
+<td width="40%" valign="top">
 
-## 🧰 Tech Stack
+### ⚡ QUICK PROFILE
+
+| | |
+|---|---|
+| 🧑‍💻 **Experience** | 2.5+ Years |
+| 🇮🇳 **Nationality** | India |
+| 📍 **Location** | Amroli, Surat |
+| 🌐 **Languages** | English · Gujarati · Hindi |
+| 💼 **Current Role** | Store Manager |
+| 🏢 **Company** | Gopani Books |
+| 📅 **Since** | 2023 – Present |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ TECHNICAL ARSENAL
 
 ### 🎨 Frontend
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend technologies">`{=html}
-```{=html}
-</p>
-```
-  Technology     Level / Focus
-  -------------- ----------------------------------
-  HTML5          Web structure & semantic markup
-  CSS3           Styling & responsive interfaces
-  JavaScript     Web functionality & interactions
-  React.js       Frontend development
-  Tailwind CSS   Utility-first styling · Basic
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center"><b>HTML5</b><br/>Structure</td>
+<td align="center"><b>CSS3</b><br/>Design</td>
+<td align="center"><b>JavaScript</b><br/>Interaction</td>
+<td align="center"><b>React.js</b><br/>UI</td>
+<td align="center"><b>Tailwind CSS</b><br/>Styling · Basic</td>
+</tr>
+</table>
 
 ### ⚙️ Backend
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=python,php" alt="Backend technologies">`{=html}
-```{=html}
-</p>
-```
--   🐍 Basic Python
--   🐘 Basic PHP
+<img src="https://skillicons.dev/icons?i=python,php" />
 
 ### 🗄️ Database
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database technologies">`{=html}
-```{=html}
-</p>
-```
--   MongoDB
--   SQL
--   MySQL
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-### 🛠️ Tools & DevOps
+### 🔧 Tools & DevOps
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify" alt="Tools and DevOps">`{=html}
-```{=html}
-</p>
-```
--   GitHub
--   Canva
--   Figma
--   Vercel
--   Gemini
--   Netlify
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify" />
 
-------------------------------------------------------------------------
+<br/>
 
-## 💡 What I Do
+<img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-AI-8B5CF6?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-Deployment-000000?style=flat-square&logo=vercel&logoColor=white" />
 
-``` text
-┌──────────────────────────────────────────────────────────────┐
-│                     HJ INFOTECH                              │
-├──────────────────────────────────────────────────────────────┤
-│  🌐 Web Development        → Modern & responsive websites    │
-│  🎨 UI / UX                → Clean and user-friendly design  │
-│  ⚛️ React Development      → Interactive web interfaces     │
-│  🧩 Problem Solving        → Practical technical solutions  │
-│  🚀 Performance            → Faster and optimized apps      │
-│  📚 Continuous Learning    → New tools & best practices     │
-└──────────────────────────────────────────────────────────────┘
-```
+</div>
 
-------------------------------------------------------------------------
+---
 
-## 🏆 Achievements
+<div align="center">
 
--   📈 Led frontend development of a project that increased **user
-    engagement by 30%**.
--   ⚡ Optimized application performance and reduced **load times by
-    50%**.
--   ⭐ Contributed to a popular open-source library with **10K+ GitHub
-    stars**.
--   🎤 Participated as a **Vibe Coder at the Regional Web Developers
-    Conference 2026**.
+## 💡 WHAT I DO
 
-------------------------------------------------------------------------
+<table>
+<tr>
+<td align="center" width="33%">
 
-## 🎯 Professional Vision
+### 🌐
+**WEB DEVELOPMENT**
 
-My vision is to use technology to build **intuitive and impactful
-digital solutions** that solve real-world problems.
+Modern, responsive and practical web experiences.
 
-I want to create software that is not only technically robust, but also
-delivers a smooth and enjoyable user experience.
+</td>
+<td align="center" width="33%">
 
-### My Goals
+### 🎨
+**UI / UX**
 
--   📚 Continuously learn and adapt to new technologies and best
-    practices.
--   🤝 Collaborate with talented teams to build meaningful products.
--   🌍 Contribute to the open-source community.
--   🧑‍🏫 Mentor aspiring developers.
--   💡 Build solutions that make a positive difference.
+Clean interfaces with focus on usability and visual clarity.
 
-------------------------------------------------------------------------
+</td>
+<td align="center" width="33%">
 
-## 📊 Developer Mindset
+### ⚛️
+**REACT DEVELOPMENT**
 
-``` text
-          THINK
-            │
-            ▼
-       ┌─────────┐
-       │ ANALYZE │
-       └────┬────┘
-            │
-            ▼
-       ┌─────────┐
-       │  BUILD  │
-       └────┬────┘
-            │
-            ▼
-       ┌─────────┐
-       │  TEST   │
-       └────┬────┘
-            │
-            ▼
-       ┌─────────┐
-       │ IMPROVE │
-       └────┬────┘
-            │
-            └──────────────► 🚀 REPEAT
-```
+Interactive interfaces and component-based web development.
 
-------------------------------------------------------------------------
+</td>
+</tr>
+<tr>
+<td align="center">
 
-## 🌐 Portfolio
+### 🧩
+**PROBLEM SOLVING**
 
-### ✨ Explore my complete portfolio
+Breaking complex requirements into simple solutions.
 
-**[🚀 portfolio-hj.vercel.app](https://portfolio-hj.vercel.app/)**
+</td>
+<td align="center">
 
-The portfolio includes:
+### ⚡
+**PERFORMANCE**
 
--   🏠 Home
--   👨‍💻 About
--   🛠️ Skills
--   💼 Projects
--   🏆 Achievements
--   🎯 Vision
--   📬 Contact
+Optimizing applications for speed and smooth usage.
 
-------------------------------------------------------------------------
+</td>
+<td align="center">
 
-## 📬 Let's Connect
+### 📚
+**CONTINUOUS LEARNING**
 
-I'm open to **new opportunities, collaborations, and interesting
-projects**.
+Exploring new technologies and better development practices.
 
-```{=html}
-<p align="center">
-```
-`<a href="https://portfolio-hj.vercel.app/">`{=html}
-`<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">`{=html}
-`</a>`{=html} `<a href="https://wa.me/">`{=html}
-`<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">`{=html}
-`</a>`{=html} `<a href="https://www.linkedin.com/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">`{=html}
-`</a>`{=html} `<a href="https://github.com/">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
+</td>
+</tr>
+</table>
 
-------------------------------------------------------------------------
+</div>
 
-::: {align="center"}
-### ⚡ "Code. Create. Learn. Repeat." ⚡
+---
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" alt="Animated footer">`{=html}
+<div align="center">
 
-**© 2026 HARSHAD JETHVA · HJ INFOTECH · All Rights Reserved**
-:::
+## 🏆 ACHIEVEMENTS
+
+<table>
+<tr>
+<td align="center">📈</td>
+<td><b>Frontend Impact</b><br/>Led frontend development of a project that increased user engagement by <b>30%</b>.</td>
+</tr>
+<tr>
+<td align="center">⚡</td>
+<td><b>Performance Optimization</b><br/>Optimized application performance and reduced load times by <b>50%</b>.</td>
+</tr>
+<tr>
+<td align="center">⭐</td>
+<td><b>Open Source</b><br/>Contributed to a popular open-source library with <b>10K+ GitHub stars</b>.</td>
+</tr>
+<tr>
+<td align="center">🎤</td>
+<td><b>Vibe Coder</b><br/>Participated as a Vibe Coder at the <b>Regional Web Developers Conference 2026</b>.</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 PROFESSIONAL VISION
+
+<table>
+<tr>
+<td>
+
+My vision is to use technology to build **intuitive and impactful digital solutions** that solve real-world problems.
+
+I want to create software that is not only technically robust, but also delivers a smooth and enjoyable user experience.
+
+</td>
+</tr>
+</table>
+
+### 🚀 MY GOALS
+
+| Goal | Direction |
+|---|---|
+| 📚 **Learn** | Continuously learn and adapt to new technologies and best practices |
+| 🤝 **Collaborate** | Work with talented teams to build meaningful products |
+| 🌍 **Open Source** | Contribute to the developer community |
+| 🧑‍🏫 **Mentor** | Help aspiring developers grow |
+| 💡 **Build** | Create solutions that make a positive difference |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔄 MY DEVELOPER LOOP
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=400&color=F59E0B&center=true&vCenter=true&width=700&lines=01.+THINK;02.+ANALYZE;03.+BUILD;04.+TEST;05.+IMPROVE;06.+REPEAT+%F0%9F%9A%80" alt="Developer loop" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 PORTFOLIO
+
+<a href="https://portfolio-hj.vercel.app/">
+<img src="https://img.shields.io/badge/%E2%9C%A8%20EXPLORE%20MY%20FULL%20PORTFOLIO-Visit%20Now-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 📌 Inside the portfolio
+
+<table>
+<tr>
+<td align="center">🏠<br/><b>Home</b></td>
+<td align="center">👨‍💻<br/><b>About</b></td>
+<td align="center">🛠️<br/><b>Skills</b></td>
+<td align="center">💼<br/><b>Projects</b></td>
+<td align="center">🏆<br/><b>Achievements</b></td>
+<td align="center">🎯<br/><b>Vision</b></td>
+<td align="center">📬<br/><b>Contact</b></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 LET'S CONNECT
+
+<p>I'm open to <b>new opportunities, collaborations and interesting projects.</b></p>
+
+<a href="https://portfolio-hj.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit-22C55E?style=for-the-badge" />
+</a>
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/🐙%20GITHUB-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/">
+<img src="https://img.shields.io/badge/💬%20WHATSAPP-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn" width="100%"/>
+
+### ⚡ **CODE. CREATE. LEARN. REPEAT.** ⚡
+
+<sub>© 2026 <b>HARSHAD JETHVA</b> · <b>HJ INFOTECH</b> · All Rights Reserved</sub>
+
+</div>
